@@ -5,7 +5,7 @@ const accion = argv[2];
 switch (accion) {
   case "listar":
     console.log(
-       LISTA DE TAREAS
+       "LISTA DE TAREAS"
     );
     listarTareas.listar();
     break;
@@ -27,3 +27,4 @@ switch (accion) {
     return listarTareas.filtrarPorEstado(argv[3].toLowerCase());
   default:
     console.log("No entiendo qué quieres hacer");
+  }

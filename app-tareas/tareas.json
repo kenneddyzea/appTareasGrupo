@@ -1,0 +1,50 @@
+[
+    {
+       "titulo": "Organigrama semanal",
+       "estado": "Pendiente"
+    },
+    {
+       "titulo": "Virreyes 12-5-2023",
+       "estado": "En progreso"
+    },
+    {
+       "titulo": "Tareas de PLayground",
+       "estado": "Terminada"
+    },
+    {
+       "titulo": "Planos para Escobar",
+       "estado": "En progreso"
+    },
+    {
+       "titulo": "Pasear al can",
+       "estado": "Pendiente"
+    },
+    {
+       "titulo": "Comprar comida para el mes",
+       "estado": "Terminada"
+    },
+    {
+       "id": "4b5750c3-9d3b-42d0-9135-7159d9bddbd0",
+       "titulo": "comprar mas yerba",
+       "estado": "Pendiente",
+       "fecha": "2023-05-12T02:17:01.208Z"
+    },
+    {
+       "id": "721ee537-fd29-4d61-baab-43e3e30fff04",
+       "titulo": "me la suda",
+       "estado": "En progreso",
+       "fecha": "2023-05-12T03:07:57.718Z"
+    },
+    {
+       "id": "c47a73ba-600b-4555-92e7-d632506d053c",
+       "titulo": "Comprar patis",
+       "estado": "Pendiente",
+       "fecha": "2023-05-13T19:21:28.828Z"
+    },
+    {
+       "id": "4d80ae70-ee1f-4162-8f1a-2692253b0b78",
+       "titulo": "Vender la Tv",
+       "estado": "Pendiente",
+       "fecha": "2023-05-13T19:34:50.647Z"
+    }
+ ]
